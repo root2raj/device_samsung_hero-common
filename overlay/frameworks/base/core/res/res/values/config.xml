@@ -995,6 +995,10 @@
          config to 7. -->
     <integer name="config_deviceHardwareKeys">83</integer>
 
+    <!-- Enable home button wake  -->
+    <bool name="config_HomeWakeButton">true</bool>
+    <integer name="config_deviceHardwareWakeKeys">65</integer>
+
     <!-- Whether to set the audio panel on the left side -->
     <bool name="config_audioPanelOnLeftSide">true</bool> 
 
