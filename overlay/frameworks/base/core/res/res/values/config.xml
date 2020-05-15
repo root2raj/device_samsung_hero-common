@@ -997,4 +997,7 @@
 
     <!-- Whether to set the audio panel on the left side -->
     <bool name="config_audioPanelOnLeftSide">true</bool> 
+
+    <!-- Whether device support button backlight -->
+    <bool name="config_button_brightness_support">true</bool>
 </resources>
