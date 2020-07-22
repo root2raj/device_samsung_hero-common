@@ -32,6 +32,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     debug.sf.disable_backpressure=1 \
     debug.sf.latch_unsignaled=1 \
     ro.opengles.version=196610 \
+    ro.vendor.ddk.set.afbc=1 \
     ro.zygote.disable_gl_preload=true
 
 # Keystore
