@@ -122,10 +122,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.biometrics.fingerprint@2.1-service.samsung
 
-# FlickerFree
-PRODUCT_PACKAGES += \
-    FlickerFree
-
 # FlipFlap
 PRODUCT_PACKAGES += \
     FlipFlap
